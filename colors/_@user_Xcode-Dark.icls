@@ -3,7 +3,7 @@
     <property name="created">2023-04-24T14:59:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2023-04-24T22:17:47</property>
+    <property name="modified">2023-04-25T22:24:06</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -420,8 +420,8 @@
         <option name="ERROR_STRIPE_COLOR" value="3e8ee3" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="dfdfe0" />
@@ -442,6 +442,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XML_TAG_NAME" baseAttributes="" />
   </attributes>
 </scheme>
