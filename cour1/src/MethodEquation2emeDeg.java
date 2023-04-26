@@ -7,8 +7,8 @@ public class MethodEquation2emeDeg {
         if (d>=0) {
             double x1,x2;
             double d1 = Math.sqrt(d);
-            x1=(-d-b)/(2*a);
-            x2=(-d+b)/(2*a);
+            x1=(-b-d)/(2*a);
+            x2=(-b+d)/(2*a);
             double[] results = {x1, x2};
             return results;
         }
