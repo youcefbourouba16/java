@@ -2,11 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dbcfd9-0161-4bc3-b80b-fe867e23ac10" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/TEST.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/Aaconter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/META-INF/TEST.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/hour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/majs_mins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matrice_swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matricedigonal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/nbr_Maj_et_min.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/pascal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/puisane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/algotest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/out/production/algotest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/out/production/untitled2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/Aaconter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/MinChaqueColonne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/alphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/hour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/majs_mins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/matrice_orderMaxtoMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/matrice_swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/matricedigonal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/nbr_Maj_et_min.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/pascal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/puisane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/MethodEquation2emeDeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/cour2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/cour3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exercieOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exo_addition_multiple_and_factoriel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/fact_exo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/les_boucles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/MethodEquation2emeDeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/cour2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/cour3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/exercieOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/exo_addition_multiple_and_factoriel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/exo_addition_multiple_and_factoriel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/fact_exo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/les_boucles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/untitled1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/META-INF/TEST.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/matrice_orderMaxtoMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cour1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/out/production/untitled1/exercieOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/out/production/untitled1/exercieOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cour1/out/production/untitled1/META-INF/untitled1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/from_min_to_max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/sum_matrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/from_min_to_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/untitled.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +126,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/matrice_swap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="37" selection-start-line="3" selection-start-column="4" selection-end-line="23" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MinChaqueColonne.java">
+        <entry file="file://$PROJECT_DIR$/src/palindrom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="432">
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -70,8 +167,11 @@
         <option value="$PROJECT_DIR$/src/matrice_identif.java" />
         <option value="$PROJECT_DIR$/src/matrice_swap.java" />
         <option value="$PROJECT_DIR$/src/matricedigonal.java" />
-        <option value="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" />
         <option value="$PROJECT_DIR$/src/MinChaqueColonne.java" />
+        <option value="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" />
+        <option value="$PROJECT_DIR$/src/temp.java" />
+        <option value="$PROJECT_DIR$/src/string.java" />
+        <option value="$PROJECT_DIR$/src/palindrom.java" />
       </list>
     </option>
   </component>
@@ -86,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -99,11 +200,14 @@
               <item name="TEST" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,7 +215,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,16 +232,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinChaqueColonne">
+  <component name="RunManager" selected="Application.palindrom">
     <configuration name="MinChaqueColonne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MinChaqueColonne" />
-      <module name="TEST" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="matrice_identif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="matrice_identif" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,15 +247,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="matrice_swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="matrice_swap" />
+    <configuration name="palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrom" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="matricedigonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="matricedigonal" />
+    <configuration name="string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string" />
+      <module name="TEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.palindrom" />
+        <item itemvalue="Application.string" />
+        <item itemvalue="Application.temp" />
         <item itemvalue="Application.MinChaqueColonne" />
         <item itemvalue="Application.matrice_orderMaxtoMin" />
-        <item itemvalue="Application.matricedigonal" />
-        <item itemvalue="Application.matrice_swap" />
-        <item itemvalue="Application.matrice_identif" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +304,10 @@
       <workItem from="1682060363859" duration="349000" />
       <workItem from="1682112341281" duration="6000" />
       <workItem from="1682329821396" duration="7792000" />
+      <workItem from="1682340944314" duration="176000" />
+      <workItem from="1682341201131" duration="646000" />
+      <workItem from="1682367005990" duration="732000" />
+      <workItem from="1682492658105" duration="4131000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1682339131343</created>
@@ -209,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37671000" />
+    <option name="totallyTimeSpent" value="43356000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,29 +335,28 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.46299094" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.32852563" />
-      <window_info anchor="bottom" id="SVN Repositories" weight="0.32852563" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984472" weight="0.39004815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984472" weight="0.38225806" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992236" weight="0.39325842" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32852563" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32852563" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32744783" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32852563" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015528" side_tool="true" weight="0.34775642" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015528" side_tool="true" weight="0.34621578" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.31942216" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="13" weight="0.32852563" />
+      <window_info anchor="bottom" id="SVN Repositories" order="14" weight="0.32852563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,6 +366,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,20 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/matrice_orderMaxtoMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/matrice_swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="37" selection-start-line="3" selection-start-column="4" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -354,12 +451,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinChaqueColonne.java">
+    <entry file="file://$PROJECT_DIR$/src/matrice_swap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="337">
+          <caret line="23" column="37" selection-start-line="3" selection-start-column="4" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinChaqueColonne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/matrice_orderMaxtoMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/palindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TEST</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

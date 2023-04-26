@@ -11,7 +11,7 @@ public class matrice_orderMaxtoMin {
         int[][] arr = new int[n][x];
         for (i = 0; i < n; i++) {
             for (j = 0; j < x; j++) {
-                System.out.println("donner valeur de la ligne " + (i + 1) + " et la colomn " + (j + 1));
+                System.out.println("donner valeur de la ligne  " + (i + 1) + " et la colomn " + (j + 1));
                 arr[i][j] = scan.nextInt();
             }
         }
@@ -24,13 +24,12 @@ public class matrice_orderMaxtoMin {
                             int tempo = arr[i][j];
                             arr[i][j] = arr[k][p];
                             arr[k][p] = tempo;
-
                         }
-                        }
-
                     }
+
                 }
             }
+        }
 
         for (i = 0; i < n; i++) {
             for (j = 0; j < n; j++) {

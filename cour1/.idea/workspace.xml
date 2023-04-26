@@ -2,8 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d569da28-ed06-4c6d-8a1a-92ab98f51a39" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/../.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/TEST.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/Aaconter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/META-INF/TEST.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/hour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/majs_mins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matrice_swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matricedigonal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/nbr_Maj_et_min.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/pascal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/puisane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/algotest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/out/production/algotest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/exo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/out/production/untitled2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/Aaconter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/MinChaqueColonne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/alphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/hour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/majs_mins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/matrice_orderMaxtoMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/matrice_swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/matricedigonal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/nbr_Maj_et_min.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/pascal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/src/puisane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/MethodEquation2emeDeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/cour2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/cour3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exercieOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exo_addition_multiple_and_factoriel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/fact_exo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/les_boucles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/MethodEquation2emeDeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/cour2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/cour3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/exercieOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/exo_addition_multiple_and_factoriel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/exo_addition_multiple_and_factoriel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/fact_exo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/src/les_boucles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cour1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/TEST.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/matrice_orderMaxtoMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/matrice_orderMaxtoMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/matrice_orderMaxtoMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/exercieOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/exercieOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/META-INF/untitled1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/from_min_to_max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/sum_matrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/from_min_to_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/untitled.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +128,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TEST/src/matrice_swap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercieOperation.java">
+        <entry file="file://$PROJECT_DIR$/src/MethodEquation2emeDeg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="18">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -90,7 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,18 +199,13 @@
             </path>
             <path>
               <item name="cour1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cour1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cour1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercieOperation">
+  <component name="RunManager" selected="Application.MethodEquation2emeDeg">
     <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method" />
       <module name="untitled1" />
@@ -172,10 +266,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodEquation2emeDeg" />
         <item itemvalue="Application.exercieOperation" />
         <item itemvalue="Application.matrice_swap" />
         <item itemvalue="Application.openbrowser" />
-        <item itemvalue="Application.MethodEquation2emeDeg" />
         <item itemvalue="Application.Method" />
       </list>
     </recent_temporary>
@@ -232,6 +326,8 @@
       <workItem from="1682101578625" duration="491000" />
       <workItem from="1682111071277" duration="219000" />
       <workItem from="1682112317401" duration="22000" />
+      <workItem from="1682454621458" duration="311000" />
+      <workItem from="1682492610678" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1682068844816</created>
@@ -286,7 +382,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60671000" />
+    <option name="totallyTimeSpent" value="61019000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +396,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17145015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -309,7 +405,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32852563" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49773413" weight="0.23595506" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49773413" weight="0.23548387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39583334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,20 +435,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/MethodEquation2emeDeg.java</url>
-          <line>3</line>
-          <properties class="MethodEquation2emeDeg" method="Equation">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cour1$exo_addition_multiple_and_factoriel.ic" NAME="exo_addition_multiple_and_factoriel Coverage Results" MODIFIED="1680471167003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -419,24 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MethodEquation2emeDeg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fact_exo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -474,8 +538,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercieOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="-1263">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodEquation2emeDeg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
