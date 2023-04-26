@@ -18,7 +18,7 @@ public class MethodEquation2emeDeg {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("donner A :");
+        System.out.println("donner A  :");
         double a = scan.nextDouble();
         System.out.println("donner B :");
         double b = scan.nextDouble();
