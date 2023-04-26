@@ -22,7 +22,7 @@ public class palindrom {
 
             System.out.println("non");
         } else {
-            System.out.println("le mot est Palindrom");
+            System.out.println("le mot est Palindrom.");
 
         }
 
