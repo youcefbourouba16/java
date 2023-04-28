@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dbcfd9-0161-4bc3-b80b-fe867e23ac10" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/moy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TEST/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TEST/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TEST/.idea/misc.xml" beforeDir="false" />
@@ -91,8 +90,8 @@
       <change beforePath="$PROJECT_DIR$/../../cour1/src/les_boucles.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cour1/untitled1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/palindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TEST/moy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/moy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/encodings.xml" beforeDir="false" />
@@ -118,12 +117,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/moy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="18">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -162,10 +161,11 @@
         <option value="$PROJECT_DIR$/src/matricedigonal.java" />
         <option value="$PROJECT_DIR$/src/MinChaqueColonne.java" />
         <option value="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" />
-        <option value="$PROJECT_DIR$/src/temp.java" />
         <option value="$PROJECT_DIR$/src/string.java" />
         <option value="$PROJECT_DIR$/src/palindrom.java" />
         <option value="$PROJECT_DIR$/src/moy.java" />
+        <option value="$PROJECT_DIR$/src/temp.java" />
+        <option value="$PROJECT_DIR$/src/temp2.java" />
       </list>
     </option>
   </component>
@@ -180,8 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.moy">
+  <component name="RunManager" selected="Application.temp">
     <configuration name="MinChaqueColonne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MinChaqueColonne" />
       <module name="TEST" />
@@ -264,10 +264,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.temp" />
         <item itemvalue="Application.moy" />
         <item itemvalue="Application.palindrom" />
         <item itemvalue="Application.string" />
-        <item itemvalue="Application.temp" />
         <item itemvalue="Application.MinChaqueColonne" />
       </list>
     </recent_temporary>
@@ -304,7 +304,8 @@
       <workItem from="1682492658105" duration="4370000" />
       <workItem from="1682512893774" duration="516000" />
       <workItem from="1682518188872" duration="109000" />
-      <workItem from="1682629852536" duration="4205000" />
+      <workItem from="1682629852536" duration="7201000" />
+      <workItem from="1682638847084" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1682339131343</created>
@@ -313,11 +314,18 @@
       <option name="project" value="LOCAL" />
       <updated>1682339131343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1682634134156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682634134156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48425000" />
+    <option name="totallyTimeSpent" value="51503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,9 +338,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984472" weight="0.38064516" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984472" weight="0.3800322" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992236" weight="0.39325842" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,13 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pascal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" column="1" selection-start-line="3" selection-start-column="4" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -469,7 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.java" />
     <entry file="file://$PROJECT_DIR$/src/string.java" />
     <entry file="file://$PROJECT_DIR$/../../../../machine learning/src/wifi.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -488,10 +487,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pascal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="1" selection-start-line="3" selection-start-column="4" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp2.java" />
+    <entry file="file://$PROJECT_DIR$/src/temp.java" />
     <entry file="file://$PROJECT_DIR$/src/moy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="18">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
