@@ -5,6 +5,7 @@ public class matricedigonal {
         Scanner scan = new Scanner(System.in);
         System.out.println("donner N");
         int n = scan.nextInt();
+
         int[][] arr = new int[n][n];
 
         for (int i = 0; i < n; i++) {
@@ -16,6 +17,7 @@ public class matricedigonal {
             for (int j = 0; j < n; j++) {
                 if (i == j) {
                     arr[i][j] = 1;
+
                 }
             }
         }
@@ -24,6 +26,7 @@ public class matricedigonal {
             for (int j = 0; j < n; j++) {
                 System.out.print(arr[i][j] + "   ");
             }
+
             System.out.println("   ");
         }
     }
