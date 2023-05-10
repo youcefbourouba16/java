@@ -5,9 +5,9 @@ public class MinChaqueColonne {
         int i, j;
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("donner N : ");
+        System.out.println("donner le nbr de lignes  : ");
         int n = scan.nextInt();
-        System.out.println("donner M : ");
+        System.out.println("donner le nbr de collones : ");
         int m = scan.nextInt();
 
         int[][] arr = new int[n][m];
@@ -38,11 +38,19 @@ public class MinChaqueColonne {
             MinColonne[j] = min;
 
         }
+        for (i=0;i<n;i++) {
+            System.out.println(" ");
+            for (j=0;j<m;j++) {
+                System.out.print(arr[i][j]+" ");
+            }
+        }
 
 
+        System.out.println();
+        System.out.println("");
         for (j = 0; j < m; j++)
         {
-            System.out.print(MinColonne[j]);
+            System.out.print(MinColonne[j]+"  ");
         }
 
     }}

@@ -2,106 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d569da28-ed06-4c6d-8a1a-92ab98f51a39" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/TEST.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/Aaconter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/META-INF/TEST.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/alphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/hour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/majs_mins.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matrice_swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/matricedigonal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/nbr_Maj_et_min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/pascal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/out/production/TEST/puisane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/algotest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/out/production/algotest/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/puisance/src/exo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/out/production/untitled2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/sec to minut and hours/untitled2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/Aaconter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/MinChaqueColonne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/alphabet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/hour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/majs_mins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/matrice_orderMaxtoMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/matrice_swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/matricedigonal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/nbr_Maj_et_min.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/pascal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TEST/src/puisane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/MethodEquation2emeDeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/cour2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/cour3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exercieOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exo_addition_multiple_and_factoriel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/fact_exo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/les_boucles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/MethodEquation2emeDeg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/cour2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/cour3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/exercieOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/exo_addition_multiple_and_factoriel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/exo_addition_multiple_and_factoriel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/fact_exo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/src/les_boucles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/untitled1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/from_min_to_max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/sum_matrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/src/from_min_to_max.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/racine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/somLignetCollon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../machine learning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../machine learning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../machine learning/src/wifi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/MinChaqueColonne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/MinChaqueColonne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/matricedigonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/matricedigonal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/MinChaqueColonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/MinChaqueColonne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/MethodEquation2emeDeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/MethodEquation2emeDeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/cour2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/cour2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/cour3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/cour3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/cour4_vecteur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/cour4_vecteur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/exercieOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/exercieOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/exo_addition_multiple_and_factoriel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/exo_addition_multiple_and_factoriel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/fact_exo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/fact_exo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/les_boucles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/les_boucles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/moy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/moy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,7 +41,48 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cour4_vecteur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/somLignetCollon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/moy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="10" column="35" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,7 +109,6 @@
         <option value="$PROJECT_DIR$/src/exo_addition_multiple_and_factoriel.java" />
         <option value="$PROJECT_DIR$/src/Switch.java" />
         <option value="$PROJECT_DIR$/src/fact_exo.java" />
-        <option value="$PROJECT_DIR$/src/Method.java" />
         <option value="$PROJECT_DIR$/src/exercieOperation.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/koko.java" />
@@ -155,10 +119,13 @@
         <option value="$PROJECT_DIR$/src/Moy.java" />
         <option value="$PROJECT_DIR$/src/cour4_vecteur.java" />
         <option value="$PROJECT_DIR$/src/moy.java" />
+        <option value="$PROJECT_DIR$/src/Method.java" />
+        <option value="$PROJECT_DIR$/src/somLignetCollon.java" />
+        <option value="$PROJECT_DIR$/src/f.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="5" />
     <option name="width" value="1346" />
@@ -172,6 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,26 +153,21 @@
               <item name="cour1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cour1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\html\java" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.moy">
+  <component name="RunManager" selected="Application.somLignetCollon">
     <configuration name="MethodEquation2emeDeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodEquation2emeDeg" />
       <module name="untitled1" />
@@ -239,13 +203,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercieOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercieOperation" />
-      <module name="untitled1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="moy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moy" />
       <module name="untitled1" />
@@ -253,13 +210,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="somLignetCollon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="somLignetCollon" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.moy" />
+        <item itemvalue="Application.somLignetCollon" />
         <item itemvalue="Application.cour4_vecteur" />
+        <item itemvalue="Application.moy" />
         <item itemvalue="Application.Moy" />
         <item itemvalue="Application.MethodEquation2emeDeg" />
-        <item itemvalue="Application.exercieOperation" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +286,8 @@
       <workItem from="1682518309292" duration="8309000" />
       <workItem from="1682534282765" duration="2885000" />
       <workItem from="1682629639612" duration="199000" />
+      <workItem from="1683733223169" duration="70000" />
+      <workItem from="1683733322628" duration="7213000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1682068844816</created>
@@ -376,7 +342,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73387000" />
+    <option name="totallyTimeSpent" value="80670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,7 +356,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +365,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32852563" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49773413" weight="0.9516908" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49773413" weight="0.93075687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3951613" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,7 +375,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848944" weight="0.32852563" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5022659" side_tool="true" weight="0.23717949" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4954683" weight="0.31723028" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4954683" weight="0.31612903" />
       <window_info anchor="bottom" id="SVN Repositories" order="13" weight="0.32852563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -468,13 +434,7 @@
     <SUITE FILE_PATH="coverage/cour1$cour4_vecteur.ic" NAME="cour4_vecteur Coverage Results" MODIFIED="1682524471038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="236" column="23" selection-start-line="236" selection-start-column="23" selection-end-line="236" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java" />
     <entry file="file://$PROJECT_DIR$/src/GFG.java" />
     <entry file="uml://JAVA/exo_addition_multiple_and_factoriel">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -518,13 +478,6 @@
     <entry file="file://$PROJECT_DIR$/src/test.java" />
     <entry file="file://$PROJECT_DIR$/src/koko.java" />
     <entry file="file://$PROJECT_DIR$/src/test2.java" />
-    <entry file="file://$PROJECT_DIR$/src/les_boucles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/openbrowser.java" />
     <entry file="file://$PROJECT_DIR$/../TEST/src/matrice_swap.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -578,17 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MethodEquation2emeDeg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -596,10 +538,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_boucles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cour4_vecteur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="40">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/somLignetCollon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
