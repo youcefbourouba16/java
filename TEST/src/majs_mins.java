@@ -9,6 +9,7 @@ public class majs_mins {
             System.out.println("donner X :");
             x = scan.next().charAt(0);
 
+
             for (char i = 'a'; i <= 'z'; i++) {
                 if (x==i)  cpm = cpm + 1;
             }

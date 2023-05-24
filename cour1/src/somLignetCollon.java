@@ -9,8 +9,9 @@ public class somLignetCollon {
         }
         x=scan.nextInt();
         return x;
-
     }
+
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("donner le nbr de ligne");
@@ -25,9 +26,9 @@ public class somLignetCollon {
 int temp=0;
         for (int i=0;i<n;i++) {
             for (int j=0;j<m;j++) {
-
                 System.out.println("Donner la valeur de la ligne "+(i+1)+" et collone "+(j+1));
                 temp=verfiyy(temp);
+
                 arr[i][j]=temp;
 
             }
@@ -45,14 +46,8 @@ int temp=0;
             int max=arr[i][0];
             int min=arr[i][0];
 
-            for (int j=0;j<m;j++) {
-                int max1=arr[0][j];
-                int min1=arr[0][j];
-                s+=arr[i][j];
-                if (arr[i][j]>max) max=arr[i][j];
-                if (arr[i][j]<min) min=arr[i][j];
-            }
-            System.out.println();
+            for (int j=0;j<m;j++)
+                System.out.println();
             System.out.println(" ligne : "+(i+1)+" Som Ligne "+(i+1)+" = "+s+" Max = "+max+"  min = "+min);
         }
         for (int j=0;j<n;j++) {

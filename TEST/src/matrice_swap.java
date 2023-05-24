@@ -12,8 +12,6 @@ public class matrice_swap {
             for (j = 0; j < n; j++) {
                 System.out.println("donner valeur de la ligne "+(i+1)+" et la colomn "+(j+1));
                 arr[i][j]= scan.nextInt();
-
-
             }
         }
         for (i = 0; i < n; i++) {
@@ -34,5 +32,6 @@ public class matrice_swap {
             }
             System.out.println("  ");
         }
+
     }
 }

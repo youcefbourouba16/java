@@ -2,48 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dbcfd9-0161-4bc3-b80b-fe867e23ac10" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/racine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fctRecursive_minus2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testTp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cour1/src/fct_inverseVecteur.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../machine learning/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../machine learning/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../machine learning/src/wifi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/Aaconter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/Aaconter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/META-INF/TEST.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/MinChaqueColonne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/MinChaqueColonne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/alphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/hour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/hour.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TEST/majs_mins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/majs_mins.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/matrice_orderMaxtoMin.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TEST/matrice_swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/matrice_swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/matricedigonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/matricedigonal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/nbr_Maj_et_min.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/nbr_Maj_et_min.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/pascal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/pascal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TEST/puisane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TEST/puisane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puisance/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/puisance/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinChaqueColonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinChaqueColonne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/majs_mins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/majs_mins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matricedigonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matricedigonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrice_swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrice_swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cour1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/out/production/untitled1/META-INF/untitled1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/out/production/untitled1/MethodEquation2emeDeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/out/production/untitled1/MethodEquation2emeDeg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/out/production/untitled1/exercieOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/out/production/untitled1/exercieOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/src/MethodEquation2emeDeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/src/MethodEquation2emeDeg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cour1/src/exercieOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/src/exercieOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cour1/out/production/untitled1/somLignetCollon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/out/production/untitled1/somLignetCollon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cour1/src/somLignetCollon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cour1/src/somLignetCollon.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +31,53 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testTp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fctRecursive_minus2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KANZA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/palindrom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/matrice_swap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,20 +103,23 @@
         <option value="$PROJECT_DIR$/src/puisane.java" />
         <option value="$PROJECT_DIR$/src/Aaconter.java" />
         <option value="$PROJECT_DIR$/src/alphabet.java" />
-        <option value="$PROJECT_DIR$/src/majs_mins.java" />
         <option value="$PROJECT_DIR$/src/hour.java" />
         <option value="$PROJECT_DIR$/src/pascal.java" />
         <option value="$PROJECT_DIR$/src/matrice_identif.java" />
-        <option value="$PROJECT_DIR$/src/matrice_swap.java" />
-        <option value="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" />
         <option value="$PROJECT_DIR$/src/string.java" />
-        <option value="$PROJECT_DIR$/src/palindrom.java" />
         <option value="$PROJECT_DIR$/src/moy.java" />
         <option value="$PROJECT_DIR$/src/temp.java" />
         <option value="$PROJECT_DIR$/src/temp2.java" />
         <option value="$PROJECT_DIR$/src/matricedigonal.java" />
         <option value="$PROJECT_DIR$/src/MinChaqueColonne.java" />
         <option value="$PROJECT_DIR$/src/racine.java" />
+        <option value="$PROJECT_DIR$/src/matrice_orderMaxtoMin.java" />
+        <option value="$PROJECT_DIR$/src/majs_mins.java" />
+        <option value="$PROJECT_DIR$/src/fctRecursive_minus2.java" />
+        <option value="$PROJECT_DIR$/src/testTp.java" />
+        <option value="$PROJECT_DIR$/src/matrice_swap.java" />
+        <option value="$PROJECT_DIR$/src/KANZA.java" />
+        <option value="$PROJECT_DIR$/src/palindrom.java" />
       </list>
     </option>
   </component>
@@ -110,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,7 +152,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +162,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,38 +176,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.racine">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-14.0.2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinChaqueColonne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinChaqueColonne" />
+  <component name="RunManager" selected="Application.palindrom">
+    <configuration name="KANZA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KANZA" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="matricedigonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="matricedigonal" />
+    <configuration name="fctRecursive_minus2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fctRecursive_minus2" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="racine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="racine" />
+    <configuration name="matrice_orderMaxtoMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrice_orderMaxtoMin" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temp" />
+    <configuration name="palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrom" />
+      <module name="TEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testTp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testTp" />
       <module name="TEST" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -191,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.racine" />
-        <item itemvalue="Application.MinChaqueColonne" />
-        <item itemvalue="Application.matricedigonal" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.temp" />
+        <item itemvalue="Application.palindrom" />
+        <item itemvalue="Application.KANZA" />
+        <item itemvalue="Application.testTp" />
+        <item itemvalue="Application.fctRecursive_minus2" />
+        <item itemvalue="Application.matrice_orderMaxtoMin" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +264,13 @@
       <workItem from="1683716244207" duration="4057000" />
       <workItem from="1683732958703" duration="228000" />
       <workItem from="1683733312479" duration="9000" />
+      <workItem from="1684273623694" duration="3922000" />
+      <workItem from="1684490654606" duration="613000" />
+      <workItem from="1684571711366" duration="269000" />
+      <workItem from="1684790079112" duration="1050000" />
+      <workItem from="1684791174282" duration="5088000" />
+      <workItem from="1684830844724" duration="7002000" />
+      <workItem from="1684867135182" duration="12342000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1682339131343</created>
@@ -260,7 +290,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58683000" />
+    <option name="totallyTimeSpent" value="88969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,7 +304,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +313,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984472" weight="0.37198067" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984472" weight="0.8129032" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992236" weight="0.3919355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,7 +323,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32852563" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015528" side_tool="true" weight="0.34621578" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3188406" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31612903" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" weight="0.32852563" />
       <window_info anchor="bottom" id="SVN Repositories" order="14" weight="0.32852563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -326,42 +356,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/majs_mins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aaconter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alphabet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/matrice_identif.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nbr_Maj_et_min.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -370,20 +365,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/matrice_swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="23" column="37" selection-start-line="3" selection-start-column="4" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/matrice_orderMaxtoMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string.java" />
     <entry file="file://$PROJECT_DIR$/src/pascal.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -404,31 +385,101 @@
     <entry file="file://E:/../machine learning/src/wifi.java" />
     <entry file="file://$USER_HOME$/Desktop/j/jobbot/src/Main.java" />
     <entry file="file://E:/../machine learning/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/MinChaqueColonne.java">
+    <entry file="file://$PROJECT_DIR$/src/racine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        <state relative-caret-position="198">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/palindrom.java">
+    <entry file="file://$PROJECT_DIR$/src/alphabet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="60">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinChaqueColonne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="38" selection-start-line="6" selection-start-column="8" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/matrice_orderMaxtoMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aaconter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/majs_mins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/matricedigonal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="500">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/racine.java">
+    <entry file="file://$PROJECT_DIR$/src/fctRecursive_minus2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/matrice_swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testTp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KANZA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/palindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
