@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78d89294-65a0-40d6-95e1-75dfe277a5b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../cour1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cour1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exercieOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cour1/out/production/untitled1/exercieOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/src/intruductio_to_OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Container_With_Most_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindormNUmber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facotiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nombre_amis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nombre_premier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/somme_des_ces_chiffres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leetcode/#3/src/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leetcode/src/sol2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leetcode/src/solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/TEST/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/TEST/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/TEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/TEST/KANZA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sec to minut and hours/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sec to minut and hours/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sec to minut and hours/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sec to minut and hours/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sec to minut and hours/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sec to minut and hours/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sec to minut and hours/out/production/untitled2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sec to minut and hours/out/production/untitled2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/Desktop/jdk-19.0.2/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,16 +34,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/matrice_swap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="28" selection-start-line="3" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+              <caret line="8" column="28" selection-start-line="3" selection-start-column="4" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fctRecursive_minus2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -53,7 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -66,12 +94,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -102,27 +132,24 @@
       <option name="presentableId" value="Default" />
       <updated>1682111297194</updated>
       <workItem from="1682111298531" duration="74000" />
+      <workItem from="1688426435934" duration="37000" />
+      <workItem from="1688776468391" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74000" />
+    <option name="totallyTimeSpent" value="124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -130,21 +157,33 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/matrice_swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="28" selection-start-line="3" selection-start-column="4" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pascal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -152,10 +191,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matrice_swap.java">
+    <entry file="file://$PROJECT_DIR$/fctRecursive_minus2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="28" selection-start-line="3" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

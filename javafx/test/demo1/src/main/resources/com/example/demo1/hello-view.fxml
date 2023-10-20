@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="scene1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo1.HelloController">
+   <RadioButton fx:id="plus" layoutX="464.0" layoutY="68.0" mnemonicParsing="false" onAction="#remove_textfield" text="+">
+      <toggleGroup>
+         <ToggleGroup fx:id="calc" />
+      </toggleGroup>
+   </RadioButton>
+   <TextField layoutX="147.0" layoutY="60.0" fx:id="x1" />
+   <TextField layoutX="147.0" layoutY="117.0" fx:id="x2" />
+   <Label fx:id="result" layoutX="147.0" layoutY="236.0" prefHeight="17.0" prefWidth="242.0" />
+   <Button layoutX="105.0" layoutY="302.0" mnemonicParsing="false" onAction="#onHelloButtonClick" text="calculate" />
+   <RadioButton fx:id="minus" layoutX="464.0" layoutY="117.0" mnemonicParsing="false" onAction="#remove_textfield" text="-" toggleGroup="$calc" />
+   <RadioButton fx:id="multiply" layoutX="471.0" layoutY="170.0" mnemonicParsing="false" onAction="#remove_textfield" text="x" toggleGroup="$calc" />
+   <RadioButton fx:id="divition" layoutX="464.0" layoutY="227.0" mnemonicParsing="false" onAction="#remove_textfield" text="\%" toggleGroup="$calc" />
+   <RadioButton fx:id="fact" layoutX="464.0" layoutY="277.0" mnemonicParsing="false" onAction="#remove_textfield" text="fact" toggleGroup="$calc" />
+   <Label layoutX="69.0" layoutY="236.0" prefHeight="17.0" prefWidth="70.0" text="the result is :" />
+   <Label layoutX="21.0" layoutY="60.0" prefHeight="17.0" prefWidth="111.0" text="the first number" />
+   <Label layoutX="21.0" layoutY="117.0" prefHeight="17.0" prefWidth="111.0" text="the second number :" />
+   <Button layoutX="242.0" layoutY="302.0" mnemonicParsing="false" onAction="#clear" text="Clear" />
+   <Button layoutX="316.0" layoutY="281.0" mnemonicParsing="false" onAction="#switch_to_cpn" prefHeight="46.0" prefWidth="122.0" style="-fx-background-color: lightblue;" text="Switch to cnp" textFill="WHITE">
+      <font>
+         <Font size="15.0" />
+      </font>
+   </Button>
+   <Label layoutX="228.0" layoutY="14.0" text="Label" />
+</AnchorPane>

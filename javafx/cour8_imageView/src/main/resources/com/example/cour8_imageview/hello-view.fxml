@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" styleClass="arrow" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cour8_imageview.HelloController">
+   <children>
+      <Button fx:id="previous" layoutX="198.0" layoutY="348.0" mnemonicParsing="false" onAction="#previos" text="previous" />
+      <ImageView fx:id="imageView" fitHeight="285.0" fitWidth="329.0" layoutX="128.0" layoutY="25.0" pickOnBounds="true">
+         <Image url="@img0.png" />
+      </ImageView>
+      <Button fx:id="next" layoutX="383.0" layoutY="348.0" mnemonicParsing="false" onAction="#nextt" stylesheets="@style.css" text="next" />
+   </children>
+</AnchorPane>

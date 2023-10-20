@@ -2,62 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d569da28-ed06-4c6d-8a1a-92ab98f51a39" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/ExamenJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invesr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour1_car_company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour1_car_company/min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour2_circle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour2_circle/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour3_generationBasics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour3_generationBasics/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour_4_StaticBlok_Class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour_4_StaticBlok_Class/outerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour_4_StaticBlok_Class/studient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour_5_Passing_Objects_to_Methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour_5_Passing_Objects_to_Methods/number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/cour_5_Passing_Objects_to_Methods/somme_classMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Container_With_Most_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/PalindormNUmber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Roman_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/Zigzag_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/facotiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/longestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/nombre_amis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/nombre_premier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/src/somme_des_ces_chiffres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javafx/cour2_EventHundler/src/main/java/com/example/cour2_eventhundler/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javafx/cour2_EventHundler/src/main/resources/com/example/cour2_eventhundler/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javafx/cour3_css_styling/src/main/java/com/example/demo/SceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javafx/cour3_css_styling/src/main/resources/com/example/demo/scene2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javafx/cour3_css_styling/src/main/resources/com/example/demo/scene3.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/#3/src/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/sol2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../machine learning/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../machine learning/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../machine learning/src/wifi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TEST/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/TEST.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/Aaconter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/Aaconter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/META-INF/TEST.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/alphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/hour.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/hour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/majs_mins.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/majs_mins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/matrice_orderMaxtoMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/matrice_orderMaxtoMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/matrice_swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/matrice_swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/matricedigonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/matricedigonal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/nbr_Maj_et_min.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/nbr_Maj_et_min.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/pascal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/pascal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/puisane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/puisane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/puisance/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/puisance/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/src/KANZA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/src/majs_mins.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/majs_mins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/src/matrice_orderMaxtoMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/matrice_orderMaxtoMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/src/matrice_swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/matrice_swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/src/matricedigonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/matricedigonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/KANZA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/out/production/TEST/moy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/out/production/TEST/moy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/sec to minut and hours/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/sec to minut and hours/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/sec to minut and hours/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/sec to minut and hours/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/sec to minut and hours/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/sec to minut and hours/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/sec to minut and hours/out/production/untitled2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/sec to minut and hours/out/production/untitled2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/moy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/moy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/META-INF/untitled1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/MethodEquation2emeDeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/MethodEquation2emeDeg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/cour2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/cour2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/cour3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/cour3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/exercieOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/exercieOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/exo_addition_multiple_and_factoriel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/exo_addition_multiple_and_factoriel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/fact_exo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/fact_exo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/fct_inverseVecteur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/fct_inverseVecteur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/les_boucles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/les_boucles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodEquation2emeDeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodEquation2emeDeg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercieOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercieOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/src/App.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +142,7 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectId" id="2TCogQ9AeNChkKl0b77t33j820b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -154,28 +152,19 @@
     </navigator>
     <panes />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/password-generator-beta-main" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="D:\html\java" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/html/java/javafx&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager" selected="Application.ExamenJava">
     <configuration name="ExamenJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamenJava" />
@@ -222,6 +211,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -303,6 +293,8 @@
       <workItem from="1686152683975" duration="279000" />
       <workItem from="1686360032674" duration="588000" />
       <workItem from="1686785012501" duration="228000" />
+      <workItem from="1690556535213" duration="5000" />
+      <workItem from="1690556613674" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1682068844816</created>
@@ -436,9 +428,6 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3290469" />
     </layout-to-restore>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />

@@ -1,0 +1,19 @@
+
+
+
+
+.label {
+    -fx-font-size: 20;
+    -fx-font-family: Consolas;
+    -fx-text-fill: blue;
+    -fx-alignment: center;
+}
+#btn_1 {
+    -fx-border: none;
+    -fx-background-color: blue;
+    -fx-border-radius: 10px 10px 10px 10px;
+    -fx-text-fill: white;
+
+
+}
+
